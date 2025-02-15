@@ -1,0 +1,17 @@
+{
+    "project" : "Tic Tac Toe",
+    "date": "18/4/2024",
+    "type" : "game",
+    "basedon" : "classic TicTacToe",
+    "player_count" : 2,
+    "about_developers" : {
+        "main_devs" : ["nadeem","nawed"],
+        "age" : [15,13],
+        "nation" : "india"
+    },
+    "skills" : {
+        "web" : ["html","css","js","react","angular"],
+        "app" : ["java","python","c++","c#"],
+        "game" : ["unity","frameworks"]
+    }
+}
