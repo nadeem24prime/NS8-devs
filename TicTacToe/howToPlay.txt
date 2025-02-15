@@ -1,9 +1,0 @@
-to play this game
-
-needed -> 2 players
-
-both wil choose one of he symbols which is x and o
-
-the grid will 3*3
-
-while any player make horizontal,vertical or diagnal combination of his/her 3 symbols, he/she will win the game
